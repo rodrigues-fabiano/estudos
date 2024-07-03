@@ -1,0 +1,20 @@
+{
+  "home": {
+    "nome": "Home",
+    "link": "/",
+    "saldacao": "Hello!",
+    "mensagem": "This is a Next.js project created with the purpose of studying the use of internationalization through the use of dictionaries, with middleware taking care of identifying the presence of supported language code and performing the appropriate page redirection."
+  },
+  "about": {
+    "nome": "About",
+    "link": "/about",
+    "apresentacao": [
+      "My name is",
+      "Fabiano Rodrigues",
+      "I am a front-end developer and this is a Next.js internationalization study project."
+    ],
+    "redes": [
+      "Check out my social media:"
+    ]
+  }
+}
